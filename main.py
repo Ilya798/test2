@@ -8,7 +8,7 @@ def main():
     print('Again')
     print('UFO c ame a nd added this lin')
     my_superfunction()
-
+    print(1)
 
 if __name__ == '__main__':
     main()
